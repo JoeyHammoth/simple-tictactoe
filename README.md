@@ -1,7 +1,9 @@
 ## Simple Tic-Tac-Toe Game
 
+<img src=https://github.com/JoeyHammoth/simple-tictactoe/blob/main/logo.png alt="Logo" width=300px>
+
 ### Overview
-This is a simple **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**. It allows two players to take turns marking spaces on a 3x3 grid. The first player to align three marks in a row, column, or diagonal wins!
+This is a simple **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**. It allows two players to take turns marking spaces on a 3x3 grid. The first player to align three marks in a row, column, or diagonal wins! Try it out [here](https://joeyhammoth.github.io/simple-tictactoe/).
 
 ### Features
 - Built with **vanilla HTML, CSS, and JavaScript** (no libraries or frameworks required).
@@ -14,8 +16,8 @@ This is a simple **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**.
 To play the game, you can either:
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/simple-tic-tac-toe.git
-   cd simple-tic-tac-toe
+   git clone https://github.com/JoeyHammoth/simple-tictactoe.git
+   cd simple-tictactoe
    ```
 2. Open `index.html` in any modern web browser.
 
@@ -49,9 +51,6 @@ To play the game, you can either:
 - Handles **player turns** and **click events**.
 - Implements **win-checking logic** to detect victory conditions.
 - Displays an alert when a player wins.
-
-### Screenshots
-
 
 ### License
 This project is licensed under the **MIT License**.
