@@ -14,8 +14,9 @@ body {
 
 .board div {
     background-color: white;
-    min-width: 100px;
-    min-height: 100px;
+    font-size: 100px;
+    text-align: center;
+    color: seagreen;
 }
 
 .copyright {
